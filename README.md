@@ -9,7 +9,6 @@
 - [Author](#author)
 - [How to Use](#how-to-use)
 - [Future Improvements](#-future-improvements)
-- [Demo](#Demo)
 
 [Project Overview](#-project-overview) 
 
